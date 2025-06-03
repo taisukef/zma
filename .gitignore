@@ -1,8 +1,9 @@
-Debug
+Debug/
 *.obj
 *.pch
 *.pdb
 *.lib
 *.a
 *.o
+*.log
 .vs/
